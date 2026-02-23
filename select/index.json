@@ -1,32 +1,24 @@
 {
   "version": 1,
-  "base_track": "スカースデイル (S.B style)",
+  "base_track": "センチメンタルピリオド",
   "base_artist": "UNISON SQUARE GARDEN",
-  "createdAt": "2026-02-06T12:45:32.821382Z",
+  "createdAt": "2026-02-23T12:17:00.198078Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "スカースデイル",
+      "title": "センチメンタルピリオド",
       "artist": "UNISON SQUARE GARDEN",
       "has_synced": true,
-      "path": "select/01_スカースデイル_UNISON_SQUARE_GARDEN.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "スカースデイル",
-      "artist": "UNISON SQUARE GARDEN",
-      "has_synced": true,
-      "path": "select/02_スカースデイル_UNISON_SQUARE_GARDEN.lrc"
+      "path": "select/01_センチメンタルピリオド_UNISON_SQUARE_GARDEN.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "スカースデイル",
+      "title": "センチメンタルピリオド",
       "artist": "UNISON SQUARE GARDEN",
       "has_synced": false,
-      "path": "select/pl_01_スカースデイル_UNISON_SQUARE_GARDEN.txt"
+      "path": "select/pl_01_センチメンタルピリオド_UNISON_SQUARE_GARDEN.txt"
     }
   ]
 }
