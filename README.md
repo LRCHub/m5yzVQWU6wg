@@ -1,4 +1,4 @@
-# UNISON SQUARE GARDEN – センチメンタルピリオド
+# UNISON SQUARE GARDEN – センチメンタルピリオド (S.B style)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
